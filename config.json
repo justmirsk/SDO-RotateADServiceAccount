@@ -1,0 +1,21 @@
+{
+    "IgnoreTLSErrors": true,
+    "plainTextApiKeyPath": "C:\\Scripts\\sdoApiKey.txt",
+    "encryptedApiKeyPath": "C:\\Scripts\\sdoEncryptedApiKey.txt",
+    "userId": "svc_sdo",
+    "PasswordLength":"32",
+    "directoryId": "2",
+    "baseUrl": "https://mc01.example.com:8443",
+    "apiUserEmail": "apiuser@example.com",
+    "plainTextSendGridAPIKeyPath": "C:\\Scripts\\SendGridApiKey.txt",
+    "encryptedSendGridAPIKeyPath": "C:\\Scripts\\SendGridEncryptedApiKey.txt",
+    "From": "automation@example.com",
+    "To": "someone@example.com",
+    "plainTextSMTPAPIKeyPath": "C:\\Scripts\\SMTPApiKey.txt",
+    "encryptedSMTPKeyPath": "C:\\Scripts\\SMTPEncryptedApiKey.txt",
+    "SMTPServer": "smtp.example.com",
+    "SMTPPort": "587",
+    "SMTPUsername": "user@example.com",
+    "UseSSL": true,
+    "mailMethod": "SendGrid"
+}
